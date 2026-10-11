@@ -1,0 +1,12 @@
+{
+  "no_permission":      "[green][SankSounds][default] You do not have permission to use this.",
+  "sound_not_found":    "[green][SankSounds][default] Sound [red]'{0}'[default] not found.",
+  "cooldown_active":    "[green][SankSounds][default] Please wait [red]{0}s[default] before playing another sound.",
+  "sound_played":       "[green][SankSounds][default] {0} played: [red]{1}",
+  "sounds_blocked":     "[green][SankSounds][default] Sounds are now [red]blocked[default] for you. Type [red]!stopsounds[default] again to unblock.",
+  "sounds_unblocked":   "[green][SankSounds][default] Sounds are now [green]unblocked[default] for you.",
+  "no_sounds":          "[green][SankSounds][default] No sounds are configured.",
+  "menu_title":         "Sank Sounds",
+  "menu_failed":        "[green][SankSounds][default] Failed to open the sounds menu.",
+  "sounds_reloaded":    "[green][SankSounds][default] Sounds reloaded. [red]{0}[default] sound(s) loaded."
+}

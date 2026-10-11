@@ -1,0 +1,162 @@
+{
+  "Sounds": {
+    "Sounds": {
+      "aaaa": {
+        "Name": "Aaaa",
+        "SoundEventName": "soundchat.aaaa",
+        "Command": "aaaa",
+        "Cooldown": -1
+      },
+      "aaaav2": {
+        "Name": "Aaaa V2",
+        "SoundEventName": "soundchat.aaaav2",
+        "Command": "aaaav2",
+        "Cooldown": -1
+      },
+      "ack": {
+        "Name": "Ack",
+        "SoundEventName": "soundchat.ack",
+        "Command": "ack",
+        "Cooldown": -1
+      },
+      "baaa": {
+        "Name": "Baaa",
+        "SoundEventName": "soundchat.baaa",
+        "Command": "baaa",
+        "Cooldown": -1
+      },
+      "blyat": {
+        "Name": "Blyat",
+        "SoundEventName": "soundchat.blyat",
+        "Command": "blyat",
+        "Cooldown": -1
+      },
+      "bruh": {
+        "Name": "Bruh",
+        "SoundEventName": "soundchat.bruh",
+        "Command": "bruh",
+        "Cooldown": -1
+      },
+      "bye": {
+        "Name": "Bye",
+        "SoundEventName": "soundchat.bye",
+        "Command": "bye",
+        "Cooldown": -1
+      },
+      "culcat": {
+        "Name": "Culcat",
+        "SoundEventName": "soundchat.culcat",
+        "Command": "culcat",
+        "Cooldown": -1
+      },
+      "grasule": {
+        "Name": "Grasule",
+        "SoundEventName": "soundchat.grasule",
+        "Command": "grasule",
+        "Cooldown": -1
+      },
+      "haha": {
+        "Name": "Haha",
+        "SoundEventName": "soundchat.haha",
+        "Command": "haha",
+        "Cooldown": -1
+      },
+      "hellov1": {
+        "Name": "Hello V1",
+        "SoundEventName": "soundchat.hellov1",
+        "Command": "hellov1",
+        "Cooldown": -1
+      },
+      "hellov2": {
+        "Name": "Hello V2",
+        "SoundEventName": "soundchat.hellov2",
+        "Command": "hellov2",
+        "Cooldown": -1
+      },
+      "japonia": {
+        "Name": "Japonia",
+        "SoundEventName": "soundchat.japonia",
+        "Command": "japonia",
+        "Cooldown": -1
+      },
+      "nani": {
+        "Name": "Nani",
+        "SoundEventName": "soundchat.nani",
+        "Command": "nani",
+        "Cooldown": -1
+      },
+      "pumn": {
+        "Name": "Pumn",
+        "SoundEventName": "soundchat.pumn",
+        "Command": "pumn",
+        "Cooldown": -1
+      },
+      "raar": {
+        "Name": "Raar",
+        "SoundEventName": "soundchat.raar",
+        "Command": "raar",
+        "Cooldown": -1
+      },
+      "stupid": {
+        "Name": "Stupid",
+        "SoundEventName": "soundchat.stupid",
+        "Command": "stupid",
+        "Cooldown": -1
+      },
+      "taci": {
+        "Name": "Taci",
+        "SoundEventName": "soundchat.taci",
+        "Command": "taci",
+        "Cooldown": -1
+      },
+      "tiomor": {
+        "Name": "Ti-o Mor",
+        "SoundEventName": "soundchat.tiomor",
+        "Command": "tiomor",
+        "Cooldown": -1
+      },
+      "vadim1": {
+        "Name": "Vadim 1",
+        "SoundEventName": "soundchat.vadim1",
+        "Command": "vadim1",
+        "Cooldown": -1
+      },
+      "vadim2": {
+        "Name": "Vadim 2",
+        "SoundEventName": "soundchat.vadim2",
+        "Command": "vadim2",
+        "Cooldown": -1
+      },
+      "vadim3": {
+        "Name": "Vadim 3",
+        "SoundEventName": "soundchat.vadim3",
+        "Command": "vadim3",
+        "Cooldown": -1
+      },
+      "vadim4": {
+        "Name": "Vadim 4",
+        "SoundEventName": "soundchat.vadim4",
+        "Command": "vadim4",
+        "Cooldown": -1
+      },
+      "wtf1": {
+        "Name": "WTF 1",
+        "SoundEventName": "soundchat.wtf1",
+        "Command": "wtf1",
+        "Cooldown": -1
+      },
+      "wtf2": {
+        "Name": "WTF 2",
+        "SoundEventName": "soundchat.wtf2",
+        "Command": "wtf2",
+        "Cooldown": -1
+      },
+      "yoo": {
+        "Name": "Yoo",
+        "SoundEventName": "soundchat.yoo",
+        "Command": "yoo",
+        "Cooldown": -1
+      }
+    }
+  }
+}
